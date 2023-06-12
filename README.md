@@ -44,7 +44,7 @@ ASK_AMT
 
 What variable(s) should be removed from the input data because they are neither targets nor features? I removed ORGANIZATION from the data set in an attempt to optimize results. 
 
-    Compiling, Training, and Evaluating the Model
+Compiling, Training, and Evaluating the Model
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 Were you able to achieve the target model performance? While model optimization increased from 72.5% to 72.8% I did not reach the target of 75% after applying three optimization techniques. 
